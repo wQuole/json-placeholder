@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "Name": "Wonky Tonk",
-      "Email": "wekva@nets.eu"
+      "Name": "Wonk Tonk",
+      "Email": "wonk@tonk.com"
     },
     {
       "id": 2,
-      "Name": "Asky Tanky",
-      "Email": "ansmo@nets.eu"
+      "Name": "Asky Tasky",
+      "Email": "asky@tasky.com"
     }
   ]
 }
